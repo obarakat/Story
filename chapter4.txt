@@ -1,0 +1,1 @@
+Testing if local pushes to remote automatically
